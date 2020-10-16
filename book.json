@@ -1,0 +1,26 @@
+{
+    "plugins": [
+      "codetabs",
+      "-search",
+      "search-pro",
+      "back-to-top-button",
+      "expandable-chapters-small",
+      "insert-logo",
+      "code",
+      "todo",
+      "advanced-emoji",
+      "splitter",
+      "tbfed-pagefooter"
+    ],
+    "pluginsConfig": {
+      "code": {
+        "copyButtons": true
+      },
+      "tbfed-pagefooter": {
+        "copyright":"Copyright",
+        "modify_label":"Last Modified:",
+        "modify_format":"YYYY-MM-DD HH:mm:ss"
+      }
+    }
+}
+
